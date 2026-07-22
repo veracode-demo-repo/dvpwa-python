@@ -1,4 +1,4 @@
-# Had to update few dependencies for build to work
+# Had to update few dependencies for build to work - works man
 ===============================================
 DVPWA -- Damn Vulnerable Python Web Application
 ===============================================
