@@ -1,4 +1,4 @@
-# Had to update few dependencies for build to work - works man
+# Had to update few dependencies for build to weeork - works man
 # updated pipeline scan to test changes
 ===============================================
 DVPWA -- Damn Vulnerable Python Web Application
