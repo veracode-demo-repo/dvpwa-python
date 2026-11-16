@@ -1,0 +1,14 @@
+# This is an example veracode.yml file
+veracode_static_scan:
+  push:
+    trigger: true
+  analysis_on_platform: true
+  default_branch: main
+
+veracode_sca_scan:
+  push:
+    trigger: true
+
+veracode_iac_secrets_scan:
+  push:
+    trigger: true
